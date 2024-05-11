@@ -1,3 +1,9 @@
+/*
+This script uses XR Interaction Toolkit Plugin for triggering haptic feedback to whichever controller pointing to the GameObject having a specific tag.
+Add the tag to search for directly in the inspector.
+Add this script to an empty GameObject and modify setting in the inspector.
+*/
+
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
